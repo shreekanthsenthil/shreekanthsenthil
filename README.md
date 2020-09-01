@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## - I'm Shreekanth J S
+![](https://komarev.com/ghpvc/?username=shreekanthsenthil&color=blueviolet)
 
 - 🔭 I’m currently working on OAuth App.
 - 🌱 I’m currently learning ReactJS.
