@@ -10,4 +10,4 @@
 - 💬 Ask me about NodeJS.
 - 📫 How to reach me: Let's Connect on [LinkedIn](https://www.linkedin.com/in/shreekanthjs/) Or Drop a [Mail](mailto:shreekanthsenthil@gmail.com).
 
-[![Shreekanth's github stats](https://github-readme-stats.vercel.app/api?username=shreekanthsenthil)](https://github.com/anuraghazra/github-readme-stats)
+[![Shreekanth's github stats](https://github-readme-stats.vercel.app/api?username=shreekanthsenthil&theme=dracula&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
